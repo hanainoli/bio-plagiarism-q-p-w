@@ -1,0 +1,1 @@
+"""UyarAI Plagiarism Detection System"""
